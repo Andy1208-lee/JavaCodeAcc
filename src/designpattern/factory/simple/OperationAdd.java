@@ -1,5 +1,7 @@
 package designpattern.factory.simple;
 
+import designpattern.factory.Operation;
+
 /**
  * 加法类
  * 
