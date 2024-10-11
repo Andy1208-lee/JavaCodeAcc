@@ -47,7 +47,3 @@ Java代码积累：**[并发](./README.md/#concurrency) [设计模式](./README.
 
 ## basic
 - [正则表达式使用方式](./src/basic/UsingRegex.java)
-
-## 如果有帮到你，欢迎随意打赏，感谢～
-![微信支付](https://raw.githubusercontent.com/echoTheLiar/JavaCodeAcc/master/wechatpay.JPG)
-![支付宝](https://raw.githubusercontent.com/echoTheLiar/JavaCodeAcc/master/alipay.JPG)
